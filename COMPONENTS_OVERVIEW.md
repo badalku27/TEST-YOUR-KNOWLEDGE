@@ -1,6 +1,6 @@
 # Component Guide
 
-Quick reference for all components in this quiz app.
+Quick reference for all components in Test Your Knowledge.
 
 ## Types
 

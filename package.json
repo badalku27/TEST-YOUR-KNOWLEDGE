@@ -1,9 +1,9 @@
 {
-  "name": "quiz-app",
+  "name": "test-your-knowledge",
   "private": true,
   "version": "1.0.0",
   "type": "module",
-  "description": "Interactive quiz application with React, TypeScript and Tailwind CSS",
+  "description": "Test Your Knowledge - Interactive quiz application with React, TypeScript and Tailwind CSS",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",

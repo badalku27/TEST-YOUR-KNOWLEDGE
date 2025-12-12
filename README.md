@@ -1,6 +1,6 @@
-# Quiz App
+# Test Your Knowledge
 
-Just a simple quiz app I made with React and TypeScript. Nothing fancy, but it works pretty well.
+Just a simple knowledge testing app I made with React and TypeScript. Nothing fancy, but it works pretty well.
 
 ## What it does
 
@@ -73,7 +73,7 @@ There's also a "Best of Luck!" animation component in there (`src/components/Bes
 
 ## That's about it
 
-Feel free to use it however you want. It's just a quiz app.
+Feel free to use it however you want. It's just a knowledge testing app.
 
 ---
 
